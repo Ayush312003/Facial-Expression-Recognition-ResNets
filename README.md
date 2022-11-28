@@ -6,4 +6,4 @@ Optimizer used- Stochastic Gradient Descent (SGD)
 
 Used ResNets instead of basic CNN Architecture to eliminate Vanishing Gradient Problem.
 
-Trained the model with 28k+ images, data set from kaggle.
+Trained the model with 28k+ images, data set from Kaggle.
